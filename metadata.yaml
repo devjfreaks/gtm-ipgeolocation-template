@@ -1,5 +1,5 @@
-homepage: "https://www.simoahava.com/"
-documentation: "https://www.simoahava.com/custom-templates/ip-geolocation-api/"
+homepage: "https://ipgeolocation.io"
+documentation: "https://ipgeolocation.io/ip-location-api.html#documentation-overview"
 versions:
   - sha: 216b50425dd1211f11b05b8f6a38980fbae277a4
     changeNotes: Initial release.
