@@ -14,12 +14,12 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "IP Geolocation",
-``"categories": [
+  "categories": [
     "UTILITY"
   ],
   "brand": {
-    "id": "brand_dummy",
-    "displayName": "",
+    "id": "github.com_devjfreaks",
+    "displayName": "IP Geolocation",
     "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAmCAMAAACf4xmcAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAACE1BMVEUAAABtYf9rZP9rZP9wYP9sYv9sY/9tY/9sY/9sZP9VVf9rYv9tY/9sY/9xVf9sY/9sY/90Xf9sY/9tYv9sY/9sYv9sY/9tYf9uYv9rY/9tYv9tYv9sZP9rZP9tYv9wYP9sY/9rXv9sY/9sZP9tY/9rYv9rYf9sY/9tYf9sYv9rY/9rY/9sY/9pYv9tY/9sY/9sY/9sY/9vZP9sY/9rY/92Yv9sZP9sY/9mZv9tZP9sZP9tY/9uYP9sY/9vYv9sY/9sY/9rZf9sYv9sY/9vZv9sY/9sZP9tY/9tbf9sYv9sY/9gYP9sZP9sY/+EfP+7t//b2P/u7f/r6v/d2/+Fff95cP/LyP/////+/v/PzP94cP+Ce//v7v/w7/94b/95cf/Oy//s6/+wq/+dl/+clv/Myf+Eff/Z1/+/u/+4s//c2v+2sf/AvP/Y1v/19P+gm/+xrP+gmv+qpP+po/+5tP+mof/08//e3P/Cvv/29f/X1f/j4v/f3f/m5P/W1P/29v+yrf/Ewf+inf++uv+inP/x8P/y8v+6tv/19f/Dv//q6P/Y1f/h3//o5//p5//k4v/EwP/9/f+ak/+0r/+Ykf+ppP+Ykv+Zk/+PiP+loP/Lx//Kx/+kn/+Qif9tZP+3s//5+f/6+f+De/+Ujv/7+/+Vjv+Jgv/n5v+Lg/9vZv+fmf/X1P/39v9uZf92bf91bf8AAADV5/21AAAATXRSTlMAKk9rEILbYuxhA5GNWgnj5gt0dcwa/j9BWFteXEpEIP0T2s2IcjL3Fb2YQ/kivJP68xeQfg3k4QpZu7cl+CeE3UxOsR709nwH19wIQOMddx4AAAABYktHRACIBR1IAAAAB3RJTUUH6QkZBw82kPMFXQAAAexJREFUOMu10uk/VFEYB/Azw0i27IoQRQqhhSiisvsZoa4JyViqG+bKcqeyVmNpkCXSilIR8S927txGt7vMeOP36jyf5/vinOc8hBxodHoPD73OtfE0eMERL4Ontjrkjb14H9ZAPr60W2msulVdY6ylR18fVeYH3L7DiKkz3QX81JQ/UN/A7KWxHvBXqoAjuNfISNLQhMAgBQsG7gvdZnNLq7lZOLUBIQoWivY62nvw8BFb9bijU3C1CJWrsHAYaafLwnU/6bH09vXTwojwMBmLAHjasT599nyAHxwattKCBY7K2DFAeObI6IuXnLnj1ShHCxsQKWNRwBjtjE9MvrYPVVsnxkV2XMaigSnaMU3z7ADPszMmWrwBYmQsFpilnbn5hbeLPUsL7+ZoMYkTcfKnxmNZGIKNe//h4yfOJpw/46RibqfwhXX8pn1lxS5MkOGBBAVLBNpXpZ+19hWnk5Sfegb4ti5R34GzKhuSTFfsx0+nGtwAUlLVNukcdZu/trYZZnjLskmLNDVFdOmO7f69syuuecZ5VUYu4L9cVFfkUqZUZV3WYCRbyvREMzn/1BVtRa7mOlVKngtGrjmZwZUiAfl/7x/kkpECkV0nbnLD3f3F3CwEilLdMlKsPX9pSkrLyvfBSEX0fpRq/gBc/bd7DurP7AAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyNS0wOS0yNVQwNzoxNDo0MCswMDowMAZvNiYAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjUtMDktMjVUMDc6MTQ6NDArMDA6MDB3Mo6aAAAAAElFTkSuQmCC"
   },
   "description": "Fetches geolocation data from ipgeolocation.io\n and makes it available in Google Tag Manager for targeting, triggers, and analytics.",
